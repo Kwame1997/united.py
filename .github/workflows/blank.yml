@@ -1,0 +1,8 @@
+## Name: Solomon Sefah
+# Course Number: Week 2 -   CIS261003VA016-1254-001
+# Assignment Title: Week 2 - Lab Sumbission: gussing_game.py
+# Assignment Description: This is a simple number guessing game where the user has to guess a number between 1 and 10.
+# The program will give feedback on whether the guess is too high, too low, or correct.
+# The program will also keep track of the number of attempts the user has made.
+# The program will end when the user guesses the correct number or chooses to quit.
+# Submission Date: 4/27/2025  
